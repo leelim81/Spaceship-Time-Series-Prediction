@@ -1,11 +1,10 @@
 # Spaceship-Time-Series-Prediction
 ### Predicting monthly sales of multiple merchants
 
-This was part of the coursework from Coursera's Advanced Machine Learning(ML) Specialization. The goal of this project is similar to a ML project which was implemented at my previous startup www.spaceship.com.sg. Spaceship is a warehouse storage and logistic service provider for other merchants. Spaceship's warehouse manager started with a simple question “Can we predict what our clients are selling next month so that we can optimize the warehouse space?“. 
+This was part of the coursework from Coursera's Advanced Machine Learning(ML) Specialization. The goal of this project is similar to a ML project which was implemented at my previous startup www.spaceship.com.sg. Spaceship is a warehouse storage and logistic service provider for companies and consumers. Spaceship's warehouse manager has a simple question “Can we predict what our clients are selling next month so that we can optimize the warehouse space?“. 
 
-Due to privacy concern, we cannot use the actual data from Spaceship. However, the provided data from Kaggle has identical structure to the real world data we had.
-
-Data URL: https://www.kaggle.com/c/competitive-data-science-final-project/data
+I am unable to release the actual data from Spaceship. However, the provided data from Kaggle has identical structure.
+URL: https://www.kaggle.com/c/competitive-data-science-final-project/data
 
 ### File descriptions
 
